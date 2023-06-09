@@ -1,0 +1,6 @@
+pubilic class helloTest{
+	public static void main (String[] args){
+		System.out.println("i like itcast and heima")
+		System.out.println("i like heima")
+		}
+}
